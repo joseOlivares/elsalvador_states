@@ -1,44 +1,57 @@
 [
-  {
+  { "id":1,
     "depto":"Ahuachapán"
   },
   {
+    "id":2,
     "depto":"Cabañas"
   },  
   {
+    "id":3,
     "depto":"Chalatenango"
   },
   {
+    "id":4,
     "depto":"Cuscatlán"
   }, 
   {
+    "id":5,
     "depto":"Morazán"
   },
   {
+    "id":6,
     "depto":"La Libertad"
   },
   {
+    "id":7,
     "depto":"La Paz"
   }, 
   {
+    "id":8,
     "depto":"La Unión"
   },
   {
+    "id":9,
     "depto":"San Miguel"
   },
   {
+    "id":10,
     "depto":"San Salvador"
   },
   {
+    "id":11,
     "depto":"San Vicente"
   },
   {
+    "id":12,
     "depto":"Santa Ana"
   },  
   {
+    "id":13,
     "depto":"Sonsonate"
   },  
   {
+    "id":14,
     "depto":"Usulután"
   }   
 ]
