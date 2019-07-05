@@ -10,6 +10,6 @@ http://my-json-server.typicode.com/joseolivares/elsalvador_states/deptos
 
 http://my-json-server.typicode.com/joseolivares/elsalvador_states/deptos?id=9
 
-También puede usar (Another alternative:
+También puede usar (Another alternative):
 
 http://my-json-server.typicode.com/joseolivares/elsalvador_states/deptos/9
